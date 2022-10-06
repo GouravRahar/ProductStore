@@ -1,0 +1,17 @@
+/* Base style for entire application */
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+
+footer {
+  position: relative;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
